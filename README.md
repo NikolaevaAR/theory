@@ -1,4 +1,4 @@
 # Теория тестирования
 ## Задание 2
 Определение методов, типов и уровней тестирования для приложения интернет-магазин
-- [@Решение](https://github.com/NikolaevaAR/theory/commit/2ea2337257bc493739c5828bf63e74165298d1fb)
+- [@Решение](https://docs.google.com/spreadsheets/d/1G96yBC9qwVFnzOD6MWD51q2mMU-oWqVDXq9HDnKjsV4/edit?usp=sharing)
